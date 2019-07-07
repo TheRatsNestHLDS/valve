@@ -1,0 +1,78 @@
+=======================================================
+Endor Base a Half-Life Deathmatch Experience by DocRock
+=======================================================
+
+Map Name:                       	endor_base.bsp
+Release date:		July 4, 2018
+
+Author:                         	DocRock
+Author email:                   	docrock10@hotmail.com
+Facebook:		https://www.facebook.com/doc.rock.988
+Twitch:			https://www.twitch.tv/docrock_creations
+Youtube:			https://www.youtube.com/channel/UCUzP05HJf5Qc_JbGGw2bX_w/featured?view_as=public
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Map description:                		A Half-Life deathmatch map set on the forest moon of Endor.
+						
+wadincluded in map:          		dr_starwars.wad
+
+=======================================================
+CONSTRUCTION:
+
+editor used:                    	 	Hammer 3.5.2
+utilities used:                 		Vluzacn's 64 bit compile tools
+				Paintshop
+				Wally
+				Half-Life model viewer
+				Goldwave	
+compile machine:                		Windows 10 Shuttle R8
+				Intel(R) Core(TM) i7-7700K 4.20 Ghz 
+				64.0 GB RAM Quadro GeForce 
+				
+compile time:                   		3 minutes
+
+=======================================================
+INSTALLATION:
+
+1. 	Run Winrar and unzip endor_base.zip
+
+2. 	Open the endor_base MAPS folder and place the endor_base.bsp, endor_base.res, and endor_base.txt in your valve/MAPS folder.  
+
+3.	Open the endor_base GFX folder.  Inside is an ENV folder containing tga files which make up the map sky.  Place the 6 (six) grimmnight.tga files into your valve/gfx/ENV folder.
+
+4.	Open the endor_base SOUND folder.  Inside is an ATAT folder containing map sounds.  Put the ATAT sounds folder in the valve/SOUND folder.
+
+5.	Open the endor_base SPRITES folder.  Inside is an ATAT folder containing map sprites.  Put the ATAT sprites folder in the valve/SPRITES folder.	
+
+=======================================================
+SPECIAL THANKS:
+
+To my babykitkat, my lover, my sweetheart, my wife.  I love you!!  My #1 fan, thanks baby
+for playtesting and helping me with this awesome map!  I DEDICATE THIS TO YOU!
+
+Thanks to several sound authors on FreeSound.org for their sounds
+	Speedenza	Alien drone
+	Julien Nicolas	birds
+	Virtual Window	key cutting
+	
+Thanks to the following authors
+	shash7			grimmnight skybox
+	NaitsirK di Fire		tree model
+	various image websites	assorted textures
+	various wav websites	assorted star wars sounds
+	stormtrooper model		unknown
+	darth vader model		ash_link
+
+The Imperial Walkers and Imperial Shuttles in the map are not models.  They are brushwork.
+
+BETA TESTERS:
+babykitkat
+riverbetty
+
+
+
+
+
+	

@@ -1,0 +1,70 @@
+
+===========================================================
+Creep_peeps Map   
+by   >>Skull&Bones<< & >>CreepItAll<<
+===========================================================
+
+Map Name:     creep_peeps.bsp
+Filesize:        3,992,000 bytes 
+Author:            Skull&Bones & >>CreepItAll<<
+Author email:  creepitall@optonline.net
+Homepage:     www.creepitall.homestead.com
+
+wad included in map:  creep_chix
+
+Extract .bsp, .res, .txt file to:
+Sierra/Half-Life/valve/maps
+Extract .spr files to:
+Sierra/Half-Life/valve/sprites
+Extract .wav files to:
+Sierra/Half-Life/valve/creep_peeps
+===========================================================
+
+LEVEL DESCRIPTION:   Fun Deathmacth killbox type map 
+Single Player:    No
+Co-Op:                No
+Deathmatch:      Yes
+
+Suggested Players:  4 - 12
+New Textures:   Yes
+New Sounds:    Yes
+new sky:   no
+===========================================================
+
+CONSTRUCTION:
+
+base map:              none
+prefabs:                 None
+editor used:             Worldcraft 3.4
+utilities used:          Zoner's Half-Life compile tools
+known bugs:            
+compile machine:   HP pavilion 2.53 ghz intel pentium 4 
+compile time:      about  9mins
+===========================================================
+
+OTHER LEVELS BY CreepitAll & Skull&Bones:
+
+creepbox2.bsp, creepscrib, creepit_up, creepy_xmas, creeping_newyears, 
+ creepscheese,  creepitall,  creepwampz_ya,  creep_rip_ash_bash,
+Creeps_Temple, Creep_Chopper, Creep_Ash_Skullbox, creep-o-ween,
+creep_xmasitall,creep_hny2004
+
+===========================================================
+vist us on the web at www.creepitall.com
+===========================================================
+
+==========================================================
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+This LEVEL may be distributed ONLY over the Internet Free of charge
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+Skull&Bones..
+
+02/04
+TOB

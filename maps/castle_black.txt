@@ -1,0 +1,57 @@
+Castle Black
+a Half-Life deathmatch experience by DocRock
+
+This map is for Half-Life 1 Deathmatch
+
+bsp name:	castle_black.bsp
+author email:	docrock10@hotmail.com
+release date:	September 25, 2017
+based on:	Game of Thrones Castle Black
+
+utilities used:	valve hammer 3.5.2
+		zoner's 64 bit compile tools
+		wally
+		ms paint
+ 		goldwave
+	
+wadincluded:	castle_black.wad
+
+PC Specs:		Windows 7 Professional
+		Intel(R) Core(TM) i7-3930K
+		3.2 Ghz 
+		16gb memory 64 bit
+		
+Compile Time:	10 minutes
+
+map dedicated to:	babykitkat (always)
+
+beta testers:	babykitkat
+		CreepItAll
+		
+installation:	castle_black.bsp to valve/maps
+		castle_black.txt to valve/maps
+		castle_black.res to valve/maps
+		sounds to valve/sound/castle_black
+		sprites to valve/sprites/castle_black
+		arcn sky tga files to valve/gfx/env
+
+snow sprite from the Snow-War Half-Life modification
+		
+
+
+	
+
+
+
+		
+
+
+
+		
+
+
+
+
+
+
+
