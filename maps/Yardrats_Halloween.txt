@@ -1,0 +1,190 @@
+_________________________________________________________________________________________
+
+Yardrats_Halloween
+     Yardrats Originally created by SpiLL[HCH]
+     Updated, with Halloween decorations and sounds by qUiCkSiLvEr 31Oct2002
+     RMF compiled with all fixes and updates implemented 17Jan2003.
+_________________________________________________________________________________________
+
+This map is a complete recompile with extensive decorations and sound files.
+A number of problems were fixed with great assistance by the awesome Grimlock.
+
+This map is wonderful with 6 players or more and lends itself to many different
+styles of play including stalking, sniping, camping, running and gunning, and
+just hysterical fun with the low-gravity suit (idea shamelessly borrowed from
+OneSneakYmouse's map RestroomRats).
+_________________________________________________________________________________________
+
+Description:       This map is an outdoor fun map in the Rats scale genre that
+                   has been extensively decorated and animated for Halloween
+                   (but fun to play year around!).
+
+                   The map is very tall with a large open central yard area and
+                   many levels of play, from the rain gutters and shingles on the
+                   roof down to the drainage area under the grate in the floor.
+
+                   The yard is stocked with a large toolshed, a water cistern with
+                   water flowing down from the rain gutters on the roof, a large
+                   green trash can, a clothes line with a moving basket, a tree stump
+                   that is a bounce pad (catapult really!) and a shootable light
+                   fixture over the door.
+
+                   The toolshed is stocked with all sorts of implements, and as one
+                   would expect there are a few spider webs and spiders in there.
+
+                   Like many rats maps, the walls have corridors and ladders
+                   as well as lifts and warps to greatly enhance connectivity.
+                   (did I mention a few secrets too?)
+
+                   For a little additional fun, a low-gravity suit is provided
+                   that will let players fly across the map in a single bound,
+                   but don't fly too high or your wings will get clipped!
+
+                   The Halloween decorations include: large pumpkin warps on the
+                   ground, a disappearing ghost tree over a stump in the ground,
+                   a cross for a buried pet "Fido" (don't wake him up now!), ghosts,
+                   a full moon overhead with a witch that flys by from time to time,
+                   an occasional lightning bolt, green and red glow sticks courtesy
+                   of Grimlock, animated (and scary) spiders running on the webs,
+                   and two flying bats playing over the water cistern.
+
+                   The Halloween sound effects include ghosts shrieking, the witch
+                   laughing, a very scary voice saying "You can't see me, but I can
+                   see you" (quite appropriate for this map!), deep eerie chuckling,
+                   a woman screaming, thunder cracks after the lightning and a dog
+                   barking whenever a player joins the map (dogs should bark when
+                   strangers come by!).
+
+                   In addition, a button will play the music "MonsterMash" for a
+                   little added entertainment while players are sniping and fragging
+                   away!
+
+                   The shootable light fixture creates two very different light levels
+                   from spooky moonlight to a bright wash of light across the yard to
+                   reveal those lurking campers and snipers.
+
+                   There are many, many places to hide and snipe and camp but the
+                   central area is just great for running and gunning across the sculpted
+                   ground (thanks Grimlock!) and pumpkin warps as added escapes or
+                   accidents depending on your strategy.
+
+                   The lifts are all very fast reacting and have catcher warps at the
+                   top to prevent players from getting stuck on the gore.  Don't try
+                   to put tripmines in the shafts though or you will be surprised!
+
+                   All in all this is a very novel, entertaining and challenging map
+                   for Half-Life Death Match.
+
+Map Source:        SpiLL was great and sent me the original RMF for this map, YEA!
+
+Decorations:       All the decorations were fully tested and run using the original
+                   Yardrats map using Botman's awesome Stripper2 program.
+
+Fixes:             Complete central area ground and walls retextured by Grimlock.
+                   Many textures re-applied, several transparent textures were
+                   cleaned up, several stick points were fixed, warps were added
+                   in all the lifts to fix the problem of players getting stuck on the
+                   gore.  The warps in the pumpkins on the ground greatly enhanced
+                   connectivity on this quite tall map.
+
+                   Grimlock graciously went thru the map and fixed some serous stick
+                   points on the ground and in the gravity lift shaft as well as tweaks
+                   and adjustments to optimize the map for better R_Speeds.
+
+Compile:           The updates were all done with Valve Hammer and Zoner's great tools.
+                   The map compiles (full vis with extra radiosity) in about 13 minutes
+                   on an 850Mhz P3 under WinXP.
+
+Other Tools:       Wally, MilkShape, HLMV, MSImager2, MGI Photosuite SPRwiz, BSP_view,
+                   Quark, and anything else that I had that would do what I needed to do.
+
+Weapons and ammo:  Everything!
+                   Lots of ammo and weapons all over the place.
+                   Lots of health and batteries (for HEV)
+
+Spawn Points:      13 (of course!) arranged somewhat to minimize sequential respawns
+
+Skybox:            The skybox is custom modified from a skybox called "backalley".
+                   Please note that only TGA's were available so players running
+                   low-res in software mode probably won't see the skybox.
+
+WADS:              The WAD file was extracted from the original Yardrats and
+                   several transparent textures were cleaned up.
+
+Models:            There are two custom models here. One is a tree originally from DOD
+                   that I rescaled to fit the map.  The other is a really nice
+                   pumpkin model originally created by Jeffrey R Chaplin (a.k.a. 'CASE')
+                   for the QuakeCon 2001 Map Object Model Contest. I converted and
+                   recompiled the model for HalfLife.
+
+                   In addition, a sprites model and a skull model are used from the
+                   HL distribution.
+
+Enhancements:      Decorations, sound effects, sprites, animated sprites, models,
+                   extra weapons, health, armor, low-gravity suit, music, secrets ...
+
+Overview files:    A custom Spectator overview image and text file is included.
+
+Download Time:     The basic map BSP is typically a 5 to 10 minute d/l but the monstermash
+                   music is largish and adds an additional 5-10 minutes.  The entire
+                   package (map, models, sounds, sprites and overview) is a longish download
+                   about 20 to 25 minutes for a reasonable connection.
+
+                   I recommend that servers that wish to optimize their d/l time delete
+                   or rename the sound/halloween/monstermash.wav file and let players
+                   download the music offline as part of the zip distribution package.
+
+                   Further d/l time savings can be acheived by commenting out the two
+                   overview files in the Yardrats_Halloween.res file.
+
+Testing:           This map has been extensively tested by TEAM USA including:
+                   Abie, X-15, Rev, MrT, Darth Sailor, Peace Keeper, eljefe, Sniper,
+                   Shadow Santa and Seanasty.
+
+Dedication:        I want to thank all the Team USA group including Grimlock for the
+                   endless encouragement and ideas and time ... I made this map for
+                   them to have a unique place to play and have fun and grow together!
+_________________________________________________________________________________________
+
+notes:             Servers running this map must set the CVAR mp_allowmonsters 1 for the
+                   models to appear.  because of an odd initialization quirk in the HL
+                   engine, the server must be restarted at least once for this CVAR to
+                   take effect.
+
+                   The map has a great many entities that are visible all the time from one
+                   player position.  Some slower computers and graphics cards may not like
+                   this very much.
+
+                   Players may still (very occasionally) get stuck on the lifts at the
+                   very bottom.
+
+                   Because tripmines in the lift shafts may cause the lift to jam up, a
+                   low-level hurt is implemented in all lift shafts to blow the tripmines up.
+ 
+                   Above all, HAVE FUN!  This map can be run year-around, not just for Halloween.
+_________________________________________________________________________________________
+
+Install: put the Yardrats_Halloween.BSP, Yardrats_Halloween.RES and Yardrats_Halloween.TXT files
+             into the valve/maps directory.
+
+         put the Halloween??.tga files into the valve/gfx/env directory.
+
+         put the sprite files (*.spr) into the valve sprites directory.
+
+         put the two overview files (Yardrats_Halloween.BMP and Yardrats_Halloween.TXT)
+             into the valve/overview directory.
+
+         put the model files (*.mdl) into the valve/models directory.
+
+         put the sound files (*.wav) into the valve/sound/Halloween directory.
+
+         The zip archive is set up for easy install from the valve directory using pathnames.
+
+Enjoy!
+    qUiCkSiLvEr
+
+          Questions, comments, attaboys, problems, all are welcome:
+          Email: ottalini@mindspring.com
+
+Web Page: http://www.mindspring.com/~ottalini/qUiCkSiLvEr.htm
+          If you get a chance, please visit qUiCkSiLvEr eXtReMe Half-Life Server too! (HLDM only)

@@ -1,0 +1,123 @@
+Title		: Hockey-Life
+Author		: =|[Gc2]|=Bedwetting Type
+Designer        : =|[Gc2]|=B(o  )(  o)Bz
+Email		: bedwetting_type@hotmail.com
+Website         : http://bedwettingtype.tripod.com
+Date		: August 10, 2002
+Game		: Half-Life
+
+--------------------------------
+Description
+--------------------------------
+A teamplay-only map of a fully-functional hockey rink.  It has a scoring system, Gatorade jugs to give you health, an online FAQ, the audience chats randomly, and you can mow down your enemies with a Zamboni.  Players start with only a crowbar, but every 3 rounds everyone gets weapons.  The Mario Lemieux and Mark Messier hockey player models are included with the map.
+
+--------------------------------
+Installation Instructions
+--------------------------------
+Unzip everything into your "valve" directory (e.g. "C:\Sierra\Half-Life\Valve") with "Use Folder Names" turned on.  The .BSP, .RES, and .TXT files will automatically go in your "maps" folder, the .WAV files will go in your "sound/hockey-life" folder, and the .MDL and .BMP files will go in "models/player/penguins" and "models/player/rangers".
+
+--------------------------------
+Rules
+--------------------------------
+* Players enter the game and automatically join the team with the least number of players.  If you wish to switch teams, go to the console with the ` key and type "model <team>", where <team> is the name of the player model for the other team.  You can tell what the options are by looking at the scoreboard (Penguins and Rangers by default).
+
+* Each team spawns in front of their goal, facing the enemy goal.  You must push the puck into the enemy goal, while keeping it out of your goal.  By default, the blue net belongs to the Penguins team, and the red net belongs to the Rangers team.  When a team scores a goal, 10 points are awarded to one person on that team, thus raising the team's total points.  (Note: This is to ensure that the same number of points is always awarded, no matter how many players are on each team.)
+
+* Before the start of a round, both teams should be positioned on their side of the center line and wait until the countdown finishes, and the puck drops from the ceiling.  At least one person on each team should be positioned just outside the "face-off" circle in the center.
+
+* After a goal, there is a 15 second delay.  At this point you can move into position for next round or go to the team benches and restore your health.  Pressing the "use" key on a Gatorade cooler raises your health by 25, all the way up to maximum.
+
+* In a normal round, players will start with only a crowbar.  Every 3 rounds, however, there is a Weapons Round.  A random weapon is given to all the players the moment the round starts.
+
+--------------------------------
+Moving the Puck
+--------------------------------
+There are two ways to move the puck.  The easiest way is to simply bump into it.  But if you need to hit the puck farther, aim at it, hold down the "use" key, and start moving.  The puck will shoot in the direction you are MOVING, not where you are aiming.  Holding down "use" longer will push the puck farther, but you may lose control of it.  A simple tap of the key should be enough.  The "use" key works best for shooting and passing only.
+
+--------------------------------
+Running A Server
+--------------------------------
+Make sure you have the Lecavalier and Mapleleafs player models that come with the map, and the hockey-life.res file is in your "maps" folder.  If you don't have them, download the full .zip file at http://bedwettingtype.tripod.com.  Hockey-Life should work fine just by starting a teamplay server (in "Advanced" server options), but players will have to download the Penguins and Rangers models from the server.
+
+If you want to start a game using different team models, it's more complicated.  Download new teams at http://www.planethalflife.com/hockey.  Then open the hockey-life.res file (in your "maps" folder) in Notepad and change these four lines to the paths of your new models:
+
+models/player/penguins/penguins.mdl
+models/player/penguins/penguins.bmp
+models/player/rangers/rangers.mdl
+models/player/rangers/rangers.bmp
+
+For example, if you want to use HappyGilmore and LAGretzky, you would change the lines to:
+
+models/player/happygilmore/happygilmore.mdl
+models/player/happygilmore/happygilmore.bmp
+models/player/lagretzky/lagretzky.mdl
+models/player/lagretzky/lagretzky.bmp
+
+Then type "mp_teamoverride 0" in the console, and define the team models with "mp_teamlist <team names>", separating them with a semicolon (i.e. mp_teamlist "happygilmore;lagretzky").  Restart the server, and you're done.
+
+--------------------------------
+Technical Info
+--------------------------------
+Single Player	: No
+Cooperative	: No
+Deathmatch	: -- NO.  HOCKEY-LIFE ONLY WORKS RIGHT IN TEAMPLAY. --
+Teamplay	: Yes
+Difficulty	: No
+New Textures	: Yes
+New Sounds	: Yes
+CD Track #	: None
+Files		: HOCKEY-LIFE.BSP, HOCKEY-LIFE.TXT, HOCKEY-LIFE.RES, APPLAUSE1.WAV, CROWD.WAV, WHISTLE.WAV, PENGUINS.MDL, PENGUINS.BMP, RANGERS.MDL, RANGERS.BMP.
+Recom. Players	: 4-12
+Min. Hardware	: 266 MHz
+Recom. Hardware	: 450 MHz
+
+--------------------------------
+Constructon
+--------------------------------
+Base		: Concept by =|[Gc2]|=B(o  )(  o)Bz, Built from scratch
+Build Time	: Nearly 2 months.
+Prefabs Used	: None
+Editor(s) Used	: Worldcraft 3.3, Wally
+Other Utilities : Paint Shop Pro 5.0, Photoshop 4.0, Zoner's Half-Life Tools
+Known Bugs	: The puck sometimes freezes for no reason.  Switching teams may cause problems with scoring.
+Compile Machine : AMD Athlon XP 1600 (1.4GHz), 256MB RAM
+Compile Time	: 1 min, 20 secs
+
+--------------------------------
+Credits
+--------------------------------
+Valve		: Half-Life and Worldcraft
+=|[GC2]|=B(o  )(  o)Bz	: For the map idea, publicity, and playtesting
+Genghis Cafe 2 Clan	: Playtesting and support.  The map wouldn't have been possible without them.
+www.neurotoxin.net/~jsbehr, www.cms.livjm.ac.uk	: Sounds
+www.athleticfamily.com, www.flags.com, http://www.dochertyfamily.com, www.gatorade.com	: Textures
+Kanonball mod team	: The awesome crowd texture.
+Erik Fritz	: The original Mario Lemieux (Pittsburgh Penguins) and Mark Messier (New York Rangers) models.
+
+Special thanks to anyone who plays the map.
+
+Sorry if I forgot someone here.
+
+--------------------------------
+Copyrights/Permissions
+--------------------------------
+Half-Life and all its original media are copyrights of Valve software.
+Worldcraft 3.3 is a copyright of Valve software.
+All textures are copyrights of their respective painters.
+Zamboni ice resurfacer is a copyright of Frank J. Zamboni & Co. Inc.
+Gatorade is a copyright of Stokely-Van Camp, Inc.
+
+Authors MAY use this map as a concept for building their own maps.  It's a hockey rink, after all.
+
+You MAY NOT use the textures in the BSP file without my written permission.
+
+You MAY distribute this map amongst your friends, on the internet, or on another electronic service as long as there is NO CHARGE, except for the costs of using the service.
+
+You MAY distribute your own Frag'N'Fly config files, waypoint files, location files, etc. for use in different mods.
+
+You MAY NOT include this map in any commercial map packs or CDs without my written permission.
+
+You MAY put a tape recorder up your brother's nose.
+
+--------------------------------
+Guns don't kill people, TRIGGER_HURT's kill people!

@@ -1,0 +1,127 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title           : Xmas Story
+Filename        : drlfun01_xmasstory
+Author          : Dr.Lambda
+Author Email    : webmaster@drlambda.de
+Home page       : www.drlambda.de
+Description     : My Christmas Map for the Lambda Map Complex Christmas Contest.
+Previous Maps   : drl08_yavimaya
+		  drl07_bleed
+		  drl06_gomorra
+		  drl05_hallway
+		  drl04_mainstream
+		  drl03_birthright
+  		  drl02_kingandcastle
+		  drl01_basewars
+Maps to be rl   : drl09_golgotha -75 % complete
+		  drl10_leviathan - 35 % complete
+		  hi_djerba -20 % complete
+		  maybe cs_gsr - 0 % complete
+		  maybe cs_drl_oldassault - 10 % complete
+
+------Credits and Thanks---------------------------------------------
+
+Thanx to Digichaos for the textures from cs_italy.
+Thanx to Red Genesis for Chemical Existence. Cool game.
+Thanx to the Dude who created the sky.
+Thanx to DerBenner for more ideas than my ill brain had.
+Thanx to Pimperator for his tips about sound etc.
+Thanx to my family.
+Thanx to KoRn, Rammstein, Kid Rock, Eminem, Limp Bizkit for making hard good music
+Thanx to Goldfinger, The Offspring, MXPX etc. for making other noise.
+Thanx to my beta testers (not many this time, top secret)
+Thanx to Spectrum for this k00l contest.
+Thanx to Sierra, Valve for creating a kick-ass game.
+Thanx to the creators of Wally.
+Thanx to The Plainswalker for giving me some christmas textures.
+Thanx to the creator of the tree prefab.
+Thanx to ...erm
+Thanx to ... yes you know
+Thanx to @ll i forgot
+Thanx to the others...
+Thanx to YOU for downloading this map.
+Thanx to the Mappers Union.
+Thanx Thanx Thanx...
+
+
+
+------Additional Info, Tips, and Notes-------------------------------
+
+OK, in the childrens room (the one with the Limp Bizkit poster) you can 
+shoot a wall. Behind it, you will find something... You can go through the
+carpet... 
+In the little Xen area, the gravity is very low. You don't need to jump
+to get to the gauss.
+
+You can gib the Barney liing outside. If you find out how, mail me. You
+may become a beta tester for my new map.
+
+If you press the Cartman poster, Cartman will sing the Bitch Song. (yes, the
+BITCH SONG)
+
+If someone gets the Gauss, Weird Al will sing "Merry Christmas to all, now
+you all gonna die!" 
+
+------Play Information-----------------------------------------------
+
+Deathmatch      : yep
+Single Player   : no.
+Map Description : My Christmas Map for the Lambda Map Complex Christmas Contest.
+How Many Players: 4 or more
+
+------Map Information------------------------------------------------
+
+New Textures    : YES!
+New Sounds      : no. not found any.
+
+------Construction---------------------------------------------------
+
+Base            : My ill mind
+Editor(s) used  : Worldcraft 3.3
+Compile Machine : AMD K52 450 MhZ usw...
+Compile time    : QCSG 23 sec
+		  QBSP 24 sec
+		  VIS 1630 sec
+		  QRAD 245 sec
+Playtest time   : 9 days.
+Known bugs	: You can put the tripmines on the sky. This is because you 
+		  could get outta map otherwise.
+
+------Map Instructions-----------------------------------------------
+
+Extract the archive to your hard disk (C:). If you have installed HL at
+the standard C:\Sierra\Half-Life, all will be fine. Otherwise, press the
+ignore paths button and install the files like this
+HALF-LIFE\valve\sounds\ambience : weird_al.wav
+HALF-LIFE\valve\sounds\ambience : bitch_song.wav
+HALF-LIFE\valve\ : drl_xmasstory1.wad
+HALF-LIFE\valve\ : xmasstory.txt
+HALF-LIFE\valve\gfx\env : The six .tga files
+HALF-LIFE\valve\maps : drlfun01_xmasstory.bsp
+
+Ok, got it?
+
+------Copyright-Permissions------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+You MAY use my textures as much as you want.
+
+You MAY use my sounds as much as you want
+
+You MAY use the sky, i think.

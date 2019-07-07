@@ -1,0 +1,46 @@
+================================================================
+Title                   : Reservoir Dogs
+Filename                : reservoir_dogs.bsp
+Author                  : Steven Smith, aka the Keeper
+Email Address           : stev_51@hotmail.com
+Description             : medium, 8-14 players
+Size			: 1,852 KB
+Thanks to               : Max, aka DTA_Maestro
+
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Monsters            : No
+New Demos               : No
+New Models              : No
+
+* Construction *
+
+Base                    : New level
+Editor(s) used          : Worldcraft 2.0 Beta Version
+Known Bugs              :  			  
+Build Time              : 
+Comments                : This is my first level
+Installation		: 
+
+
+============================================================
+
+My site:
+
+http://www.geocities.com/area51/shire/6564
+
+(this and future releases available at the Busy Beaver(tm) Homepage)
+
+DTA Official Homepage:
+
+http://www.get.to/dta
+
+©1999 Steven Smith

@@ -1,0 +1,76 @@
+
+=======================================================
+Scooby_Doo   by DocRock
+=======================================================
+
+Map Name:      scooby_doo.bsp
+Filesize:            scooby-doo.zip
+Author:            DocRock
+Author email:    docrock64@yahoo.com
+Homepage:      www.planethalflife.com/docrocksmaps
+
+wadincluded in map:  scodo.wad
+skybox in map:          lowlands
+
+TO GET THE MOST FUN OUT OF THIS MAP, TYPE   MP_ALLOWMONSTERS 1   IN YOUR CONSOLE.  THEN CHANGELEVEL TO THIS MAP AGAIN AND MONSTERS WILL BE IN THE MAP.  WITH NO MONSTERS IN THIS MAP, THERE IS ONE SPOT WHERE YOU CAN GET STUCK WITHOUT DYING.  
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:    No
+Co-Op:              No
+Deathmatch:      Yes
+
+Suggested Players:  4 - 8
+New Textures:    Yes (scodo.wad)
+New Sounds:      Yes  (wavs included: pizza.wad, howsnack.wav, piclaugh.wav, thunder.wav, dooby.wav, theme.wav, creak.wav, zoinks.wav.  All of these wavs are in the scodo sound folder)
+
+Map description:  SCOOBY-DOO WHERE ARE YOU!  A map for all ages!  Kinda scary too if you aren't ready for some things.
+
+=======================================================
+CONSTRUCTION:
+
+base map:                None
+prefabs:                   None
+editor used:             Worldcraft 3.3
+utilities used:          Zoner's Half-Life compile tools, paint, adobe photoshop6, wally
+known bugs:            None
+compile machine:    Compaq Presario Pentium III 933 Mhz 128 mb
+compile time:          28 minutes
+
+=======================================================
+INSTALLATION:
+
+Run Winzip and unzip tigger.zip into your Half-Life folder.  There will then be a folder in your Half-Life main folder called scooby_doo.  Make a folder in your Half-Life/Valve folder and name it sound.  Then place the scodo folder into that folder.  Then place the scooby_doo.bsp in your Half-Life/Valve/Maps folder.  Also copy all of the lowlands skies from the scooby_doo gfx/env folder and paste them into your valve/gfx/env folder.
+
+=======================================================
+OTHER LEVELS BY DOCROCK:
+
+Tigger, Cliffside, Rockpit, Stalked, The_Drain , Con_Killbox, Basecamp, DepotArena, Conundrum, Conundrum 2, The Challenger Deep...etc
+
+=======================================================
+SPECIAL THANKS:
+
+To my babykitkat, my lover, my sweetheart, my wife.  I love you!!  My #1 fan, thanks baby for playtesting and helping me with this awesome map!
+
+MORE THANKS:
+
+To Hanna-Barbera for ScoobyDoo, his pals, and all their crazy sayings.
+=======================================================
+COPYRIGHT STUFF
+
+scooby_doo.bsp  copyright 2001 by DocRock          
+scodo.wad  copyright 2001 by DocRock
+scooby-doo.wavs copyright Hanna-Barbera
+scooby-doo pictures copyright Hanna-Barbera
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+You MAY NOT use the scodo.wad as it is made by ME and you MUST NOT USE IT
+in any form for your own use without having MY PERMISSION.

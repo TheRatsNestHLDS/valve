@@ -1,0 +1,11 @@
+models/player/penguins/penguins.bmp
+models/player/penguins/penguins.mdl
+models/player/rangers/rangers.bmp
+models/player/rangers/rangers.mdl
+maps/hockey-life.txt
+maps/hockey-life.res
+sound/hockey-life/applause1.wav
+sound/hockey-life/crowd.wav
+sound/hockey-life/whistle.wav
+sprites/cups3.spr
+sprites/cups4.spr

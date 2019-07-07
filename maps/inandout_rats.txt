@@ -1,0 +1,52 @@
+In and Out Rats
+a rats deathmatch experience by DocRock
+
+a rat infested In and Out Burger fast food restaurant
+
+Map information:
+bsp name:	inandout_rats.bsp
+skybox name:	3dm_stuka
+map released:	Dec 14 2016
+author:		DocRock
+author email:	docrock10@hotmail.com
+
+Build information:
+original map:	yes
+map based on:	a real In and Out Burger in Las Vegas, NV
+
+utilities used:	valve hammer 3.5.2
+		wally
+		paintshop
+	
+wadincluded:	inandout.wad
+
+models used:	yes
+
+sounds used:	yes
+
+sprites used:	yes
+
+PC Specs:		Windows 7 Professional
+		Intel(R) Core(TM) i7-3930K
+		3.2 Ghz 
+		16gb memory
+		
+Compile Time:	8 minutes	
+
+map dedicated to:	babykitkat (always)
+
+beta testers:	babykitkat
+		SilentRunner007
+
+installation:	inandout_rats.bsp to valve/maps
+		inandout_rats.res to valve/maps
+		inandout_rats.txt to valve/maps
+		3dmstuka tga to valve/gfx/env
+		models to valve/models/inandout
+		sprites to valve/sprites/inandout
+		sounds to valve/sound/inandout
+		
+
+
+
+

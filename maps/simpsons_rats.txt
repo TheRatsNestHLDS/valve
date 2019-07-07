@@ -1,0 +1,64 @@
+
+=======================================================
+Simpsons_Rats   by DocRock
+=======================================================
+
+Map Name:     	 	Simpsons_Rats.bsp
+Filesize:           	 	913 kb .zip
+Author:            		DocRock
+Author email:  		docrock10@cox.net
+Homepage:     	 	www.homestead.com/docrocksmaps
+
+wadincluded in map:  	simpsons.wad
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:    		No
+Co-Op:                		No
+Deathmatch:      		Yes
+
+Suggested Players:  		4 - 10
+New Textures:   		Yes 
+New Sounds:     		Yes
+
+Map description:  		This is the Simpsons' kitchen and living room.  Rats style.
+
+======================================================
+CONSTRUCTION:
+
+base map:                	none
+prefabs:                   	None
+editor used:             	Worldcraft 3.3
+utilities used:          		Zoner's Half-Life compile tools, paint, wally
+known bugs:            	None
+compile machine:   		Alienware Custom 5600 Core Processor
+compile time:          		2 minutes
+
+=======================================================
+OTHER LEVELS BY DOCROCK:
+
+view my website for all of my maps and other information
+
+=======================================================
+SPECIAL THANKS:
+
+To my babykitkat, my lover, my sweetheart, my wife.  I love you!!! 
+
+To whoever created the simpsons.wad
+
+=======================================================
+COPYRIGHT STUFF
+
+Simpsons_Rats.bsp  copyright 2009 by DocRock
+All rights reserved.
+
+
+Authors MAY use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission. 

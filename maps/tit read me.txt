@@ -1,0 +1,87 @@
+================================================================
+Title                   : Trapped in Tomb
+Date                    : April 22, 2002 (Asus GeForce 4 4600 released today, should have it in a week)
+Filename                : tit.bsp
+Author                  : X-15 Agent
+Email Address           : mpndxter@pacbell.net
+Home Page               : http://www.geocities.com/x15agent/index.html?1006019287100
+                          
+
+Mail Address            : 
+			  
+
+Description             : Half-Life Deathmatch level (but of course! {I love all that persist})		
+		
+
+Additional Credits to   : Mustang- For giving me a place to learn how to play (Ack! Sometimes I hate the morals 			  playing on your server taught me!)
+			  JUIM- For running an awesome DM server, ({Thank God, I would have stopped playing by now}I 			  couldn't have flowered without you},) playtesting my map, and tips on map building.
+			  Grimlock- For fixing my lighting difficulties (PROVIEW MONITORS SUCK!!!!!!!), and adding a 			  few additional goodies (I added counter mesures {your a sick man Grim!}).  Also for 			  	  sending me things I needed for the beginning game text (YAY! YOU DA MAN GRIM!!!!}).
+			  qUiCkSiLvEr For playtesting, and asking Grimlock if he'd help me with my map (I am BLESSED 			  THAT I MET YOU).
+                          Phillatio- A friend 'till the end (never a doubt, in this God forsaken world).
+			  Ace McGirk- Simply an incredible man.  Very helpful, and kind.  My map wouldn't be the 			  same with out his help.
+			  Everyone I play with (except those who cry like babies).  
+			  Crunchy. God bless you. Crunchy.  You've been there since I've been playing HL, and 			          there's no advisary that I've admired more (I've learned a lot from you 
+			  {believe it or not!!!!}).
+                          
+
+================================================================
+
+* Play Information *
+
+Single Player           : no, don't even try it- your machine will freeze (j/k)
+Deathmatch              : Yes
+Difficulty Settings     : No
+
+================================================================
+
+Put the .bsp file into the following directory:
+
+... \Half-Life\valve\maps
+
+Extract the grnflare4.spr in your \Half-Life\valve\sprites folder
+
+Place the windy.wav in the Half-Life\valve\sound\ambience folder
+
+I don't know who to credit for the grnflare4.spr, and the windy.wav, I liked 'em and used 'em.  I hope you don't get mad.  Let me know who you are, and I'll let everyone know that you are the author if it's cool with you, or I can take 'em out, and recompile. Thanks ;)
+
+Run your hl.exe with "-console +deathmatch 1" and 
+type in "map tit_beta4" to the console to learn the map. 
+
+================================================================
+
+* Story *
+
+Of a lovely lady, who was bringing u- oh sorry ;P
+
+A crazy old bastard is about to die.  So he hears about this Xen world.  He hires a bunch of workers to build him this tomb out of old ancient pyramid parts in the Xen universe.  The only thing is, they don’t know that he plans to do the exact thing as the ancient Egyptian Kings did.  Seal up everyone who knows, so no one will ever find out where his stash, and his body are!  Yes.  You just found out your really a construction worker :)  Have fun!
+
+
+
+
+
+
+* Construction *
+
+Editor(s) used          : Worldcraft 3.3, Valve Hammer Edition 3.4 (sweet)
+Known Bugs              : none
+			  
+Build Time              : 31 years
+
+Compile machine         : PentiumIII/933 , 384 meg SD-RAM, GeForce 4 MX soon to be a GeForce 4 4600 (yay!)
+
+================================================================
+
+* Permissions *
+
+You are NOT allowed to sell this level with commercial profit in mind,
+without paying me huge ammounts of money first.
+
+If you want to include this map in a non-commercial map-pack or so, 
+you are allowed to. (You have to include this text-file)
+
+Feel free to swap it amongst your net friends.
+
+If you want to burn it onto a CD, as long as it follows the stuff above, go for it!
+
+You MAY NOT alter or add to this level without my permission.
+

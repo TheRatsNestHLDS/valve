@@ -1,0 +1,94 @@
+=======================================================
+Mario_Sewer a Half-Life Deathmatch Experience by DocRock
+=======================================================
+
+Map Name:                       	mario_sewer.bsp
+Release date:		May 29, 2019
+
+Author:                         	DocRock
+Author email:                   	docrock10@hotmail.com
+Facebook:		https://www.facebook.com/doc.rock.988
+Twitch:			https://www.twitch.tv/docrock_creations
+Youtube:			https://www.youtube.com/channel/UCUzP05HJf5Qc_JbGGw2bX_w/featured?view_as=public
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Map description:                		A Half-Life deathmatch map set in a sewer in marioland.
+						
+wadincluded in map:          		newmario.wad
+
+Map based on sewerside by DocRock
+
+=======================================================
+CONSTRUCTION:
+
+editor used:                    	 	Hammer 3.5.2
+utilities used:                 		Vluzacn's 64 bit compile tools
+				Paintshop
+				Wally
+				Half-Life model viewer
+				Goldwave	
+compile machine:                		Windows 10 Shuttle R8
+				Intel(R) Core(TM) i7-7700K 4.20 Ghz 
+				64.0 GB RAM Quadro GeForce 
+				
+compile time:                   		6 minutes
+
+=======================================================
+INSTALLATION:
+
+1. 	Run Winrar and unzip mario_sewer.zip
+
+2. 	Open the mario_sewer maps folder and place the mario_sewer.bsp, mario_sewer.res, and mario_sewer.txt in your valve/maps folder.  
+
+3.	Open the sewerside gfx/env folder and place the 6 (six) skyline.tga files into your valve/gfx/env folder.
+
+4.	Open the mario_sewer sound folder and put the mario19 sound folder in your valve/sound folder.
+
+5.	Open the mario_sewer models folder and place the mario19 models folder inside the valve/models folder.
+
+6.  	Open the mario_sewer sprites folder and place the mario19 sprite folder inside the valve/sprites folder.
+
+=======================================================
+SOUND THANKS:
+
+deathscyp			large metal door.wav
+
+=======================================================
+MODEL THANKS:
+
+qUiCkSiLvEr		pinky model
+			
+			
+=======================================================
+SKYBOX THANKS:
+
+unknown			skyline
+
+=======================================================
+SPRITE THANKS:
+
+SilentRunner007		docpipe.spr
+			
+=======================================================
+BETA TESTERS:
+
+babykitkat
+SilentRunner007
+
+=======================================================
+SPECIAL THANKS:
+
+To my babykitkat, my lover, my sweetheart, my wife.  I love you!!  My #1 fan, thanks baby
+for playtesting and helping me with this awesome map!  I DEDICATE THIS TO YOU!
+
+To SilentRunner007 - Thanks for the Sewerside to Mario Map conversion idea!
+
+
+
+
+
+
+
+	

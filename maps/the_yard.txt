@@ -1,0 +1,59 @@
+===================================================================================
+DATE: October 19, 1999 (final release)
+===================================================================================
+Title                   : The Yard
+Files                   : the_yard.bsp , the_yard.jrf
+Author                  : QS (Stephen Smart)
+Email Address           : quantumsaint@yahoo.com
+Homepage                : http://start.at/the.page (Quake2 levels availible)
+
+
+Description		: Very small 1 on 1 or 2 on 2 map. This map was made for 2 to 4 player LAN games
+                          but should run well on the internet also. This one is kinda plain and more of a Boot Camp look.
+                          It was kept basic to keep speeds down and still offer a fairly wide open map.
+                          The basic idea is to take over a tower/base and keep others out (defend).
+
+                          Weapons: RPG, AR gun, shotgun, 357, crossbow, grnades, satchels, snark, tripmine
+                                   And a mounted mortar cannon.
+                                   
+===================================================================================
+--ADDITIONAL CREDITS--
+
+Playtesters: David, Darrell, Pat, David
+
+=========================================================================================
+--PLAY INFORMATION--
+Game			: Half-Life
+Level Name      	: The Yard
+Files    		: the_yard.bsp , the_yard.jrf
+Single Player           : No	
+Cooperative 		: No 
+DeathMatch              : Yes
+MAP    # of PLAYERS     : 2-4 (anymore could be a bit hectic)
+             				
+Difficulty Settings     : No
+
+Platform(s) used               : P200mmx 32MB mem and AMD K6 300 64MB mem
+Editor used                    : WC (for compiling also)
+Known bugs                     : None that I know of.
+New sounds/textures/entities   : NO
+============================================================================================
+===========================================================================================
+--LOADING INFORMATION--
+Download, unzip, and put the .BSP file in your c:\sierra\half-life\valve\maps directory (your drive letter may be different). Its that easy...Done 
+
+--Additional Notes--
+
+This is the 11th map I made for HL. Its for small games... anything more than 4 players and it will get a bit tight.
+I am including the JUMBOT ROUTE FILE (jrf). I am no expert at routing the bots so if the routes could be improved there are 
+sites on the internet that will take requests for jrf files and they are very good at making them.
+
+R_SPEEDS stay under 500 in all areas except for the very edges of the top of the towers.
+Doesnt seem to cause any slowdowns.
+
+============================================================================================
+--LEGAL--
+This Half-Life map/level (The Yard-the_yard.bsp) is (c) 1999 Stephen Smart.
+DO NOT put this level/map on any sort of commercial product or compilation unless you have permission from me.
+You MAY distribute this BSP file through any other means, provided you include this .txt file 
+(unaltered) and it is free of charge. Do not modify this BSP in any way.

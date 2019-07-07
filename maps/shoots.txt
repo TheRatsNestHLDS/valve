@@ -1,0 +1,20 @@
+Map name:  Shoots And Ladders
+Author:  Sam The Sham
+
+--PLAY INFORMATION--
+Game			: Half-Life
+Level Name      	: Shoots And Ladders
+Files    		: shoots.bsp
+Single Player           : No	
+Cooperative 		: No 
+DeathMatch              : Yes
+MAP # of PLAYERS        : 2-4
+Secrets			: Yes
+             				
+Platform(s) used        : P2 266 16MB mem
+Editor(s) used          : WC
+Known bugs              : None
+
+--NOTES--
+My first attempt at a map, just threw it together in a few hours
+for a couple of buddies.  Proper Credit to Sam The Sham.
