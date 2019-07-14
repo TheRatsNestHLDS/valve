@@ -1,0 +1,44 @@
+Raptor
+--------------------------------------------
+
+Author:         Chris Callow, AKA Lucky Bob, Phoenix, and many others...
+
+Model Name:    Raptor (and thats Mr. Raptor to YOU)
+Version:       	1
+Release Date:  	November 17, 1999
+Total Size:                     323 Kb
+Polygons:     	813
+Vertices:     	449
+Texture Size:  	  256 x 256
+                                     
+Team Colors:   	Team Raptor?...nah...(In other words, more or less, NO)
+Animations:   	Valve (I need an animation tutorial!)
+Build Time:    	3 Days
+Programs Used:	Milkshape, Studiomdl, Paintshop Pro 6
+
+Known bugs:
+As there is just a slight amount of polygon clipping on this one.
+
+Comments:
+Raptor would have had a lower polygon account, but then I'd have to trade in his smoove arms and legs
+for blocks of similar shape, which would have given the model a less, raptor-like shape.  
+
+Description:
+Its a blood thirsty raptor, who is skilled in the use of automatic weapons.(He loves to jump and beat them scientist with a crowbar.)
+
+Installation:
+
+Model Files: Just put the folder labeled raptor in your valve models folder under player.
+Optional Extras:  I'm thinking of making a raptor claw to replace the crowbar.
+
+Distribution:
+Send it to your friends, family, and victims, but be sure to include this file.
+
+Upcoming Projects:
+COMING SOON, the FANTASTIC, AMAZING, SEQUEL TO BOB,..(drum roll please)
+..................................................TANK MASTER!................................
+
+---------------------------------------------
+
+E-mail:	   ejcjr@showme.net
+Website:  That'll be up real soon!...(no really!)
