@@ -350,3 +350,10 @@ models/player/wolverine/wolverine2.bmp
 models/player/wolverine/wolverine_README.txt
 models/player/zombie/zombie.bmp
 models/player/zombie/zombie.mdl
+
+// custom and stock player model files
+// ----------------------------
+// added Gumby!
+models/player/gumby/gumby.mdl
+models/player/gumby/gumby.jpg
+models/player/gumby/gumby.bmp
