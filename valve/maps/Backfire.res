@@ -8,6 +8,7 @@
 // map related files
 // -----------------
 maps/Backfire.res
+maps/Backfire.bsp
 
 // custom and stock models
 // -----------------------
@@ -205,7 +206,7 @@ models/player/Jason/Jason.mdl.ztmp
 models/player/Jesus/Jesus.bmp
 models/player/Jesus/Jesus.mdl
 models/player/Jesus/Jesus.txt
-models/player/Kate/Kate .mdl
+models/player/Kate/Kate.mdl
 models/player/lain/lain.bmp
 models/player/lain/lain.mdl
 models/player/lain/lain.mdl.ztmp
@@ -280,13 +281,9 @@ models/player/scientist/Scientist.mdl
 models/player/scream/Scream.bmp
 models/player/scream/Scream.mdl
 models/player/scream/scream.mdl.ztmp
-models/player/Snickers/player
 models/player/Snickers/Snickers.bmp
 models/player/Snickers/Snickers.mdl
 models/player/Snickers/Snickers.mdl.ztmp
-models/player/Snickers/player/Snickers
-models/player/Snickers/player/Snickers/Snickers.bmp
-models/player/Snickers/player/Snickers/Snickers.mdl
 models/player/spawn/readme.txt
 models/player/spawn/Spawn.bmp
 models/player/spawn/Spawn.mdl
