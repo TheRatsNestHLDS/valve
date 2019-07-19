@@ -321,3 +321,15 @@ models/player/zombie/zombie.mdl
 models/player/gumby/gumby.mdl
 models/player/gumby/gumby.jpg
 models/player/gumby/gumby.bmp
+
+// custom and stock player model files
+// ----------------------------
+// added more boobies
+models/player/snickers3/snickers3.mdl
+models/player/snickers3/snickers3.bmp
+models/player/nuderaider/nuderaider.mdl
+models/player/nuderaider/nuderaider.bmp
+models/player/p0rnstar/p0rnstar.mdl
+models/player/p0rnstar/p0rnstar.bmp
+models/player/KitKat_Mia/KitKat_Mia.mdl
+models/player/KitKat_Mia/KitKat_Mia.bmp
