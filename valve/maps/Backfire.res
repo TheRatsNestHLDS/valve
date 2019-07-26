@@ -326,3 +326,32 @@ models/player/nuderaider/nuderaider.mdl
 models/player/nuderaider/nuderaider.bmp
 models/player/KitKat_Mia/KitKat_Mia.mdl
 models/player/KitKat_Mia/KitKat_Mia.bmp
+
+// custom and stock player model files
+// ----------------------------
+// adding some oldies
+models/player/adolf/adolf.mdl
+models/player/adolf/adolf.bmp
+models/player/avp2pred/avp2pred.mdl
+models/player/avp2pred/avp2pred.bmp
+models/player/discoman/discoman.mdl
+models/player/discoman/discoman.bmp
+models/player/handysmurf/handysmurf.bmp
+models/player/handysmurf/handysmurf.mdl
+models/player/harleyquinn/harleyquinn.mdl
+models/player/harleyquinn/harleyquinn.bmp
+models/player/HevWalter/HevWalter.mdl
+models/player/jesus/jesus.bmp
+models/player/jesus/jesus.mdl
+models/player/kermit/kermit.bmp
+models/player/kermit/kermit.mdl
+models/player/KKK/KKK.mdl
+models/player/KKK/KKK.bmp
+models/player/lego/lego.bmp
+models/player/lego/lego.mdl
+models/player/naked/naked.bmp
+models/player/naked/naked.mdl
+models/player/trish/trish.mdl
+models/player/trish/trish.bmp
+models/player/wwoman-g/wwoman-g.bmp
+models/player/wwoman-g/wwoman-g.mdl
